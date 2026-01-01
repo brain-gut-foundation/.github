@@ -1,5 +1,3 @@
-# The Brain–Gut Foundation
-
 **The Brain–Gut Foundation** is a public-interest initiative dedicated to publishing **open protocols for evidence-based brain–gut interventions**.
 
 Our aim is to make scientifically grounded methods in brain–gut science more **transparent, reproducible, and globally accessible**, while maintaining clear boundaries around evidence, safety, and scope.
